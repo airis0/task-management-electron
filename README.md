@@ -7,7 +7,7 @@ Task management app made with Electron.
 
 
 # Usage  
-Double-click electron-task-management -shortcut.  
+Unzip the task-management-electron.zip file and double-click electron-task-management -shortcut.
 
 Or double-click electron-task-management.exe in the electron-task-management-win32-x64 folder.  
 
