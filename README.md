@@ -129,8 +129,7 @@ To exit, click "End Slideshow" at the top of the screen.
 
 * ai  
 * [https://tech.airis0.com](https://tech.airis0.com)  
-* ai.ris0.contact@gmail.com  
- 
+
 
 # License   
 "Task-Management" is under [Apache License2.0](http://www.apache.org/licenses/LICENSE-2.0.html).   
